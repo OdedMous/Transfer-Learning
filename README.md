@@ -1,2 +1,2 @@
 # Transfer-Learning
-Details on transfer-learning.ipynb
+Details in transfer_learning.ipynb
