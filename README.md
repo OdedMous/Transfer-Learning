@@ -1,2 +1,2 @@
 # Transfer-Learning
-Transfer-Learning
+Details on transfer-learning.ipynb
